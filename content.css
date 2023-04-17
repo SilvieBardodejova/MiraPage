@@ -1,0 +1,31 @@
+body {
+    background-image: url('../images/old-black-background.jpg');
+    background-repeat: no-repeat;
+    }
+
+/* h1{
+    font-family:'Times new roman';
+    color: firebrick;
+    text-shadow: 8px -5px 8px #cf7e65;
+    font-size: 4rem;
+    display: flex;
+    justify-content: right;
+    margin-right: 5rem;
+} */
+
+.container{
+    background:rgba(38, 35, 35, 0.7);
+    width: 90rem;
+    margin: 0 auto;
+    font-size: 3rem;
+    
+   
+}
+/* 
+main{
+    font-size: 3rem;
+    color: white;
+    opacity:0.8;
+    border: 1px solid white;
+    margin-top: 500px;
+} */
